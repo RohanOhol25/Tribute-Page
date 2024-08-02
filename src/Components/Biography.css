@@ -1,0 +1,47 @@
+.mainpic{
+    height: 400px;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin: auto;
+    border-radius: 45px;
+}
+span{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.secondimg{
+    height: 370px;
+    width: auto;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+h4{
+    padding-top: 80px;
+}
+h3{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.about{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.maindiv{
+    background-color:#F4D9D0;
+}
+.picdiv{
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/1000/426/desktop-wallpaper-m-s-dhoni-the-untold-story-dhoni.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin: auto;
+    padding-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
